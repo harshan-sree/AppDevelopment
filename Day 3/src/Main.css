@@ -3,6 +3,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background-size:cover;
     background-color: #f4f4f4;
     background-image: url("rail.jpg");
   }
