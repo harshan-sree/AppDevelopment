@@ -7,6 +7,7 @@
   }
   
   .register-container {
+    background-image: url("india.jpg");
     background-color: #ffffff;
     border: 1px solid #ccc;
     padding: 20px;
